@@ -1,1 +1,11 @@
-/ 100
+115/ 100
+Last update Sat May 30 17:02:57 2015 -0700
+-5: late because of minor error
+
+cd PATH: /20
+     (The prompt must change correctly for all of the cases for full credit)
+    [0/5] Change to a directory above the current working directory.
+    [0/5] Change to a directory specified using an absolute path.
+    [0/5] Change to a directory which does not exist.
+
+

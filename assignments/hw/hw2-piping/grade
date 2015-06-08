@@ -1,5 +1,8 @@
-65/ 100
+40/ 100
 Last update Mon May 18 04:34:56 2015 -0700
+
+-25: memory leak found in valgrind
+ ==39808== 26 (16 direct, 10 indirect) bytes in 1 blocks are definitely lost in loss record 2 of 2 ==39808== definitely lost: 16 bytes in 1 blocks
 
 -----------------------------------------------------
 [1]  Input redirection from an existant file (25)

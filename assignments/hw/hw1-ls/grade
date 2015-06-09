@@ -1,4 +1,4 @@
-42.5/ 100
+75 / 100
 Last update Sat May 2 03:27:56 2015 -0700
 
 Error checking for syscalls
@@ -8,7 +8,7 @@ file: [src/ls.cpp] -60
 
 test ls output
 .:
-[1;34m1/[0m  [1;32ma[0m*  aa  b  c  
+[1;34m1/[0m  [1;32ma[0m*  aa  b  c
 
 +15: Extra - coloring works
 
